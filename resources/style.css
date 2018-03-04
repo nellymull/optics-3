@@ -25,7 +25,8 @@ h1 {
 
 /* Header */
 .banner {
-  background-image: url("../images/glasses-bg.png");
+  background-image:
+  url("../resources/images/glasses-bg.png");
   height: 30rem;
   background-size: cover;
   background-position: center;
